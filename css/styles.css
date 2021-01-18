@@ -132,8 +132,9 @@ body{
     background: #fafafa;
 }
 
-.subtitle{
+.titulos{
     font-size: 42px;
+    color: var(--gold)
 }
 
 .subtitle--modifier{
