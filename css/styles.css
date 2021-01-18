@@ -134,7 +134,7 @@ body{
 
 .titulos{
     font-size: 42px;
-    color: var(--gold)
+    color: var(--gold1);
 }
 
 .subtitle--modifier{
@@ -693,7 +693,7 @@ body{
         font-size: 20px;
     }
 
-    .subtitle{
+    .titulos{
         font-size: 35px;
         text-align: center;
     }
